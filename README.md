@@ -8,34 +8,4 @@ Here are some ideas to get you started:
 I am Arjun Bhobe. A student from the Silicon Valley California.
 I work with Python and Qiskit. 
 
-Here is my GPG key!
-- -----BEGIN PGP PUBLIC KEY BLOCK-----
-
-xsBNBF8KTEsBCADlcZNV0nv8M4g4MJXDf34gktsPeINS+/rDHXQ4EyGfP4YHRnBD
-HaqWgWkUMrdJttqSaUx38U5kSoSL0DOMJ/Lu6jRafclIXJgl1QIglzxLqWPRgQVv
-lBURNWA9LGS1q8erYDbF9MUQ4udrL+KKiVc3658/T+V9/PdexZ+3GR3csLaVV5CI
-CYkZZpkiGe5K5cLUmD4FSVA/hu4bOZwPODZGPD5TAp9nwOwrpzzVi55GiP6AtHB2
-iH7PPJBeoUOFC+IM0kCEZiO9lwP0LqR42euIRasRgBbcXqeGwN4KInUXnZaFa8Rs
-i7aWcLXIkGwLCBeuKqNGl+vlAXGgr5cNcsUzABEBAAHNJUFyanVuIEJob2JlIDxh
-cmp1bi5hLmJob2JlQGdtYWlsLmNvbT7CwJQEEwEIAD4WIQTQGdG5oHEbGu5jYfhz
-7+VxkfqkiwUCXwpMSwIbAwUJA8JnAAULCQgHAgYVCgkICwIEFgIDAQIeAQIXgAAK
-CRBz7+VxkfqkiyT2CADKTyNQ4VBIyfz49Pzox85S8KxwHMYHesVzKfReS5RFBv8W
-WeFs0WVewfwhz/1k1AHEJRiOJkvswf7t1hM24QzT4Nwchkd9hScMXKLIfpchu//1
-8qrkPDVZzvOeJ/UaatpJVI2gU3D78J7eLZWisxsbk6hTtBM1YQ9J4KgqZhKKHdTb
-VRBL6zQmYA5TEvHdSKXmBF0yFZX0eTdLIFuxJfJ/B/bSaKgzzBVEdOsgUGc5geQ9
-phEgHmaKSDTj378Q342gP+v3Qz2hV/hW9i25sg76VzWbZQLgdQ5F3l6Gs0inA25q
-YghM5lrwqVZi9h9vfRurv/1aN1VgZNkoaBEfgYGRzsBNBF8KTEsBCADSHdScGMm8
-4Pit2WFAA63w0usoCUxEVA/Hq9ihpvdr+vr8qcM9sYunzY7B9vpjyjx4q4I0ArIQ
-KR24/5NveJYDZ5whp17WHwwJtpYjl9fcbtM8UcN0siW6VGCO/xeyQU6t4ONB/teR
-y9Wcm3+GHYlNyJ8vM1QEUeYXB+Tty0DP6BaPAvJmXqI1xJ5D90BOiI9Rd7BXvxgg
-g4gGrXtprjMPyjGG6PXK6KSiaFz3DokY1FuekqOtssjGngn9MDD/5PbfSsFllnlF
-faIddh1+zU6wZstvN5f1BdHgaCIWPZCSs+PbKjLzCmCG+wppgr1cHCqJe7CyQp1+
-yHyimqRIjgQBABEBAAHCwHwEGAEIACYWIQTQGdG5oHEbGu5jYfhz7+VxkfqkiwUC
-XwpMSwIbDAUJA8JnAAAKCRBz7+VxkfqkiwlcCADM9ISQvCl6d7JEJRcZgRiQPbN6
-yC+ZOq6zQaqgSu4YaRmPGCu3w4WSSIA8tiMvXeCGJu4i7neMRvi4gAm688Hj5q7G
-ixefrFlHZaZVMEzqAoKwAH3pXY31lb6CjfkRQos6l4hE/0EEXb1RPEqFR8p/7JgW
-yJJimVA4EcZPmGzNCw7Sh1GuwhVCohTuQvVtEu2bzKkB0Bv/VKaW5BX2WnyQt7za
-9VF3l7Q6FbKFrVpuBh9lQIhEekp6exAaNlmXzQtViQcfDaRdYOxWJd3TCKALnb3/
-I6e4wq+ATTRjbKEIaXN+RklL/o0ea9+BMGsiNsWOp8IIm8aZEyCz3jZ7nxgy
-=pQOC
-- -----END PGP PUBLIC KEY BLOCK-----
+[![My github stats](https://github-readme-stats.vercel.app/api?username=abhobe)](https://github.com/anuraghazra/github-readme-stats)
